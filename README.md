@@ -1,0 +1,2 @@
+# Methane-Prediction
+Initially developed a Machine Learning model with Explainable AI (XAI) techniques for methane emission prediction and environmental feature analysis. Further extended the project using Gaussian Fuzzy Feature Engineering and Deep Learning with Domain Adaptation to improve prediction accuracy in river ecosystems. Achieved enhanced performance with R² = 0.86 and identified key environmental drivers using SHAP analysis.
